@@ -1,6 +1,6 @@
 # Lab-4: Applied Statistical Modeling & Interactive Web Dashboard
 
-**Course:** Statistical Modeling with Python | **Dataset:** Option A — Medical Insurance Costs
+**Course:** Statistical Modeling with Python | **Dataset:** Option A : Medical Insurance Costs
 
 ## Repository Structure
 ```
@@ -72,15 +72,14 @@ Source: [stedy/Machine-Learning-with-R-datasets](https://github.com/stedy/Machin
    next step to improve model fit and satisfy assumptions more closely.
 
 ## Dashboard Tabs (`app.py`)
-- **Tab 1 — Data Exploration:** Sidebar filters (age/BMI sliders, region/smoker/sex multi-select),
+- **Tab 1 : Data Exploration:** Sidebar filters (age/BMI sliders, region/smoker/sex multi-select),
   reactive Plotly charts, live summary statistics.
-- **Tab 2 — Hypothesis Testing Lab:** Choose a test (two-group comparison, Chi-square, or ANOVA),
+- **Tab 2 : Hypothesis Testing Lab:** Choose a test (two-group comparison, Chi-square, or ANOVA),
   pick variables via dropdowns — the app auto-selects t-test vs. Mann-Whitney based on a live
   Shapiro-Wilk check, and reports the Reject/Fail-to-Reject conclusion at α = 0.05.
-- **Tab 3 — Live Prediction & Diagnostics:** Enter a hypothetical individual's details to get a
+- **Tab 3 : Live Prediction & Diagnostics:** Enter a hypothetical individual's details to get a
   real-time charge prediction with 95% confidence and prediction intervals, plus residual
   diagnostic plots (Residuals vs. Fitted, Q-Q plot), normality tests, and VIF table.
 
-## Optional Bonus
-To claim the +5 mark bonus, deploy to [Streamlit Community Cloud](https://share.streamlit.io)
-and add the live URL here: `<your-deployed-url>`
+
+STREAMLIT APP Live URL here: `<your-deployed-url>`
