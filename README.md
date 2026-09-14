@@ -2,7 +2,7 @@
 
 **Name:** Raj Udaybhai Ruparel
 **Enrollment Number:** 202618065
-**Course:** Statistical Modeling with Python
+**Course:** Statistical Methods - DS602
 **Dataset:** Option A : Medical Insurance Costs
 
 ## Repository Structure
