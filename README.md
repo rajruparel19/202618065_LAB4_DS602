@@ -85,4 +85,4 @@ Source: [stedy/Machine-Learning-with-R-datasets](https://github.com/stedy/Machin
   diagnostic plots (Residuals vs. Fitted, Q-Q plot), normality tests, and VIF table.
 
 
-STREAMLIT APP Live URL here: 
+STREAMLIT APP Live URL here: https://202618065lab4ds602-bqyrcle579zm5hx6ii76op.streamlit.app/
