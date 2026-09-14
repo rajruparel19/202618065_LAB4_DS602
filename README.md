@@ -1,7 +1,7 @@
 # Lab-4: Applied Statistical Modeling & Interactive Web Dashboard
 
-Name : Raj Udaybhai Ruparel
-Enrollment Number : 202618065
+**Name:** Raj Udaybhai Ruparel
+**Enrollment Number:** 202618065
 **Course:** Statistical Modeling with Python
 **Dataset:** Option A : Medical Insurance Costs
 
